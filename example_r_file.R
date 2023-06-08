@@ -1,6 +1,6 @@
 #' This is a file
 #'
-#' the aim is to filter  some cols and make a graph
+#' The aim is to filter  some cols and make a graph
 
 library(tidyverse)
 library(ggplot2)
